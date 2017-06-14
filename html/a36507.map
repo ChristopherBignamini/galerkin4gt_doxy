@@ -1,0 +1,12 @@
+<map id="/Users/bignamic/Development/Galerking4GT/galerkin4gt/examples/test_dg_flux.hpp" name="/Users/bignamic/Development/Galerking4GT/galerkin4gt/examples/test_dg_flux.hpp">
+<area shape="rect" id="node2" href="$a36596.html" title="Definition of the quantities needed for performing computations on the boundary. " alt="" coords="3098,109,3293,136"/>
+<area shape="rect" id="node3" href="$a36581.html" title="assembly.hpp" alt="" coords="2972,192,3076,219"/>
+<area shape="rect" id="node4" href="$a36584.html" title="assembly_base.hpp" alt="" coords="3121,275,3260,301"/>
+<area shape="rect" id="node34" href="$a38941.html" title="../functors/assembly\l_functors.hpp" alt="" coords="3298,350,3437,391"/>
+<area shape="rect" id="node44" href="$a36554.html" title="../functors/mass.hpp" alt="" coords="2581,275,2723,301"/>
+<area shape="rect" id="node6" href="$a36593.html" title="This file contains some of the core definitions used for the discretization on the reference space..." alt="" coords="2277,448,2416,475"/>
+<area shape="rect" id="node36" href="$a36608.html" title="intrepid.hpp" alt="" coords="2991,357,3083,384"/>
+<area shape="rect" id="node8" href="$a36569.html" title="global definitions, used in the whole library. This file is included everywhere. " alt="" coords="197,539,336,565"/>
+<area shape="rect" id="node16" href="$a36605.html" title="element_traits.hpp" alt="" coords="1897,539,2028,565"/>
+<area shape="rect" id="node43" href="$a36602.html" title="cubature.hpp" alt="" coords="3351,448,3451,475"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="square" name="square">
+<area shape="rect" id="node2" href="$a37693.html" title="{subdomain\&lt; square \&gt;\n||+ subdomain()\l+ is_on_boundary()\l}" alt="" coords="298,851,448,943"/>
+<area shape="rect" id="node3" href="$a37685.html" title="{subdomain_data\&lt; square \&gt;\n||+ subdomain_data()\l+ geom_data()\l+ geom_data()\l+ tolerance()\l+ tolerance()\l}" alt="" coords="89,651,273,787"/>
+<area shape="rect" id="node4" href="$a38379.html" title="{double\n||}" alt="" coords="77,13,139,91"/>
+<area shape="rect" id="node6" href="$a37669.html" title="{coord_t\n||+ coord_t()\l+ mod()\l+ mod2()\l+ x()\l+ x()\l+ y()\l+ y()\l+ z()\l+ z()\l}" alt="" coords="69,192,155,387"/>
+<area shape="rect" id="node7" href="$a37685.html" title="{subdomain_data\&lt; Subdomain\lDef \&gt;\n||+ subdomain_data()\l+ geom_data()\l+ geom_data()\l+ tolerance()\l+ tolerance()\l}" alt="" coords="188,214,388,365"/>
+<area shape="rect" id="node5" href="$a37677.html" title="{subdomain_geom_data\l\&lt; square \&gt;\n||+ subdomain_geom_data()\l+ bottom_right_corner()\l+ up_left_corner()\l}" alt="" coords="51,465,232,586"/>
+<area shape="rect" id="node9" href="$a37693.html" title="{subdomain\&lt; SubdomainDef \&gt;\n||+ subdomain()\l+ is_on_boundary()\l}" alt="" coords="354,673,552,765"/>
+</map>

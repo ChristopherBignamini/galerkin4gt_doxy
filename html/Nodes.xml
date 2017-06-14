@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocSetNodes version="1.0">
+  <TOC>
+    <Node>
+      <Name>Root</Name>
+      <Path>index.html</Path>
+      <Subnodes>
+       <Node>
+        <Name>Galerkin methods using GridTools</Name>
+        <Path>index.html</Path>
+        <Subnodes>
+         <Node>
+          <Name>Disclaimer</Name>
+          <Path>index.html</Path>
+          <Anchor>Disclaimer</Anchor>
+         </Node>
+         <Node>
+          <Name>Introduction</Name>
+          <Path>index.html</Path>
+          <Anchor>Introduction</Anchor>
+         </Node>
+         <Node>
+          <Name>Generic Description and Concepts</Name>
+          <Path>index.html</Path>
+          <Anchor>sec_concepts</Anchor>
+         </Node>
+         <Node>
+          <Name>GridTools</Name>
+          <Path>index.html</Path>
+          <Anchor>gt</Anchor>
+          <Subnodes>
+           <Node>
+            <Name>Libraries</Name>
+            <Path>index.html</Path>
+            <Anchor>The</Anchor>
+            <Subnodes>
+             <Node>
+              <Name>Optimizations</Name>
+              <Path>index.html</Path>
+              <Anchor>Optimizations</Anchor>
+             </Node>
+             <Node>
+              <Name>API</Name>
+              <Path>index.html</Path>
+              <Anchor>API</Anchor>
+             </Node>
+            </Subnodes>
+           </Node>
+          </Subnodes>
+         </Node>
+         <Node>
+          <Name>Installation instructions</Name>
+          <Path>a38925.html</Path>
+         </Node>
+         <Node>
+          <Name>Galerking Discretization (continuous)</Name>
+          <Path>a38923.html</Path>
+          <Subnodes>
+           <Node>
+            <Name>Problem Description</Name>
+            <Path>a38923.html</Path>
+            <Anchor>sec_fe_pb_description</Anchor>
+           </Node>
+           <Node>
+            <Name>Structure of the code</Name>
+            <Path>a38923.html</Path>
+            <Anchor>sec_structure</Anchor>
+           </Node>
+          </Subnodes>
+         </Node>
+         <Node>
+          <Name>Basis Functions</Name>
+          <Path>a38916.html</Path>
+         </Node>
+         <Node>
+          <Name>Discontinuous Galerkin</Name>
+          <Path>a38919.html</Path>
+         </Node>
+        </Subnodes>
+       </Node>
+       <Node>
+        <Name>Examples</Name>
+        <Path>a38922.html</Path>
+        <Subnodes>
+         <Node>
+          <Name>Structure of the Examples</Name>
+          <Path>a38922.html</Path>
+          <Anchor>structure</Anchor>
+         </Node>
+         <Node>
+          <Name>Examples</Name>
+          <Path>a38922.html</Path>
+          <Anchor>examples</Anchor>
+         </Node>
+         <Node>
+          <Name>Scalar Vector Sum</Name>
+          <Path>a38931.html</Path>
+         </Node>
+         <Node>
+          <Name>Vector Vector Multiplication</Name>
+          <Path>a38933.html</Path>
+         </Node>
+         <Node>
+          <Name>Matrix Vector Multiplication</Name>
+          <Path>a38929.html</Path>
+         </Node>
+         <Node>
+          <Name>Mass Matrix Discretization</Name>
+          <Path>a38928.html</Path>
+         </Node>
+         <Node>
+          <Name>Stiffness Matrix Discretization</Name>
+          <Path>a38932.html</Path>
+         </Node>
+         <Node>
+          <Name>Conjugate Gradient linear solver</Name>
+          <Path>a38917.html</Path>
+         </Node>
+         <Node>
+          <Name>Poisson problem</Name>
+          <Path>a38930.html</Path>
+         </Node>
+         <Node>
+          <Name>Gather from neighbours</Name>
+          <Path>a38924.html</Path>
+         </Node>
+         <Node>
+          <Name>DG Flux Implementation Example</Name>
+          <Path>a38921.html</Path>
+         </Node>
+         <Node>
+          <Name>Interpolation between FE Spaces</Name>
+          <Path>a38926.html</Path>
+         </Node>
+         <Node>
+          <Name>SEM Diagonal Local Mass Matrix (Using Legendre Basis Functions)</Name>
+          <Path>a38927.html</Path>
+         </Node>
+         <Node>
+          <Name>Discretization of an advection problem using modal DG (with Legendre Basis Functions)</Name>
+          <Path>a38920.html</Path>
+         </Node>
+         <Node>
+          <Name>I/O Example (cubed sphere grid)</Name>
+          <Path>a38918.html</Path>
+         </Node>
+        </Subnodes>
+       </Node>
+       <Node>
+        <Name>Bibliography</Name>
+        <Path>a38953.html</Path>
+       </Node>
+      </Subnodes>
+    </Node>
+  </TOC>
+</DocSetNodes>

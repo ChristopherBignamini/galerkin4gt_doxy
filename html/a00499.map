@@ -1,0 +1,6 @@
+<map id="gdl::assembly_cg&lt; Geo &gt;" name="gdl::assembly_cg&lt; Geo &gt;">
+<area shape="rect" id="node3" href="$a00070.html" title="{gdl::assembly\&lt; Geo \&gt;\n||+ assembly()\l+ cub_weights()\l+ fe_backend()\l+ get_cub_weights()\l+ get_fe_backend()\l+ get_jac()\l+ get_jac_det()\l+ get_jac_inv()\l+ jac()\l+ jac_det()\l+ jac_inv()\l}" alt="" coords="258,464,410,688"/>
+<area shape="rect" id="node6" href="$a00070.html" title="aggregator of tools and storages used to assemble the finite elements discretization of the most comm..." alt="" coords="352,176,537,400"/>
+<area shape="rect" id="node8" href="$a00071.html" title="{gdl::assembly_base\l\&lt; Geo \&gt;\n||+ assembly_base()\l+ get_grid()\l+ get_grid_info()\l+ grid()\l}" alt="" coords="93,508,233,644"/>
+<area shape="rect" id="node9" href="$a00071.html" title="struct containing the grid information " alt="" coords="93,220,233,356"/>
+</map>

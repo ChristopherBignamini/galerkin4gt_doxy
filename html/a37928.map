@@ -1,0 +1,14 @@
+<map id="gdl::intrepid::geometry&lt; GeoMap, Cubature &gt;" name="gdl::intrepid::geometry&lt; GeoMap, Cubature &gt;">
+<area shape="rect" id="node2" href="$a37922.html" title="{gdl::intrepid::discretization\l\&lt; GeoMap, Cubature \&gt;\n||+ discretization()\l+ compute()\l+ cub_points()\l+ cub_weights()\l+ get_cub_points()\l+ get_cub_weights()\l+ get_ordering()\l+ grad()\l+ grad()\l+ val()\l+ val()\l+ basis_cardinality()\l}" alt="" coords="806,848,982,1101"/>
+<area shape="rect" id="node20" href="$a37922.html" title="defining the finite element discretization " alt="" coords="984,517,1160,771"/>
+<area shape="rect" id="node4" href="$a38264.html" title="{grad_storage_t\n||}" alt="" coords="228,155,340,232"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="728,155,869,232"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="1537,155,1652,232"/>
+<area shape="rect" id="node8" href="$a38248.html" title="{basis_function_storage\l_t_info\n||}" alt="" coords="903,147,1061,239"/>
+<area shape="rect" id="node9" href="$a38232.html" title="{storage_info_t\&lt; gt\l::pair\&lt; discretization\l\&lt; GeoMap, Cubature \&gt;,\l static_int\&lt; __COUNTER\l__ \&gt; \&gt;, layout3_t \&gt;\n||}" alt="" coords="422,576,593,712"/>
+<area shape="rect" id="node10" href="$a38256.html" title="{storage_t\&lt; weights\l_storage_t_info \&gt;\n||}" alt="" coords="584,333,718,425"/>
+<area shape="rect" id="node12" href="$a38240.html" title="{grad_storage_t_info\n||}" alt="" coords="420,155,560,232"/>
+<area shape="rect" id="node14" href="$a38272.html" title="{basis_function_storage_t\n||}" alt="" coords="1188,155,1358,232"/>
+<area shape="rect" id="node15" href="$a38252.html" title="{storage_t\&lt; cub_points\l_storage_t_info \&gt;\n||}" alt="" coords="1815,333,1968,425"/>
+<area shape="rect" id="node18" href="$a38228.html" title="{uint_t\n||}" alt="" coords="1458,155,1512,232"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="gdl::aggregator_type_tuple&lt; Types &gt;" name="gdl::aggregator_type_tuple&lt; Types &gt;">
+<area shape="rect" id="node2" href="$a37787.html" title="{gdl::aggregator_type\l_tuple\&lt; Rest ... \&gt;\n||}" alt="" coords="241,163,385,255"/>
+<area shape="rect" id="node3" href="$a37763.html" title="struct aggregator_type_tuple " alt="" coords="5,307,200,429"/>
+<area shape="rect" id="node4" href="$a37795.html" title="{gdl::aggregator_type\l_tuple\&lt; assembly_base\l\&lt; Geometry \&gt;, Rest ... \&gt;\n|+ size\l|+ aggregator_type_tuple()\l+ domain()\l}" alt="" coords="225,307,401,429"/>
+<area shape="rect" id="node5" href="$a37827.html" title="{gdl::aggregator_type\l_tuple\&lt; bd_assembly\&lt;\l Boundary \&gt;, Rest ... \&gt;\n|+ size\l|+ aggregator_type_tuple()\l+ domain()\l}" alt="" coords="425,307,601,429"/>
+</map>

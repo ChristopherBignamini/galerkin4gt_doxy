@@ -1,0 +1,6 @@
+<map id="gdl::io_base&lt; Derived &gt;" name="gdl::io_base&lt; Derived &gt;">
+<area shape="rect" id="node2" href="$a38195.html" title="{gdl::io_base\&lt; io_rectilinear\l\&lt; Storage, LocalGrid \&gt; \&gt;\n||}" alt="" coords="5,161,187,253"/>
+<area shape="rect" id="node4" href="$a38195.html" title="{gdl::io_base\&lt; io_regular\l\&lt; Storage \&gt; \&gt;\n||}" alt="" coords="211,161,376,253"/>
+<area shape="rect" id="node3" href="$a38227.html" title="{gdl::io_rectilinear\l\&lt; Storage, LocalGrid \&gt;\n|+ m_grid\l|+ io_rectilinear()\l+ set_attribute_scalar()\l+ set_attribute_scalar\l_qpoints()\l+ set_attribute_vector()\l+ set_attribute_vector\l_on_face()\l+ set_information()\l}" alt="" coords="16,304,176,499"/>
+<area shape="rect" id="node5" href="$a38219.html" title="{gdl::io_regular\&lt; Storage \&gt;\n|+ m_grid\l|+ io_regular()\l+ set_attribute_scalar()\l+ set_attribute_vector()\l}" alt="" coords="205,348,381,455"/>
+</map>

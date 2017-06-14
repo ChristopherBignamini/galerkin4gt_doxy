@@ -1,0 +1,11 @@
+<map id="/Users/bignamic/Development/Galerking4GT/galerkin4gt/examples/stiffness_2D.cpp" name="/Users/bignamic/Development/Galerking4GT/galerkin4gt/examples/stiffness_2D.cpp">
+<area shape="rect" id="node2" href="$a36575.html" title="../numerics/assembly.hpp" alt="" coords="4317,184,4490,211"/>
+<area shape="rect" id="node3" href="$a36578.html" title="assembly_base.hpp" alt="" coords="4193,259,4333,285"/>
+<area shape="rect" id="node37" href="$a38854.html" title="../functors/assembly\l_functors.hpp" alt="" coords="4333,334,4473,375"/>
+<area shape="rect" id="node47" href="$a36548.html" title="../functors/mass.hpp" alt="" coords="4409,259,4551,285"/>
+<area shape="rect" id="node5" href="$a36587.html" title="This file contains some of the core definitions used for the discretization on the reference space..." alt="" coords="3705,432,3845,459"/>
+<area shape="rect" id="node39" href="$a36602.html" title="intrepid.hpp" alt="" coords="4217,341,4309,368"/>
+<area shape="rect" id="node7" href="$a36563.html" title="global definitions, used in the whole library. This file is included everywhere. " alt="" coords="3673,523,3811,549"/>
+<area shape="rect" id="node15" href="$a36599.html" title="element_traits.hpp" alt="" coords="1872,523,2003,549"/>
+<area shape="rect" id="node45" href="$a36596.html" title="cubature.hpp" alt="" coords="4360,432,4459,459"/>
+</map>

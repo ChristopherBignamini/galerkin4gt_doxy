@@ -1,0 +1,22 @@
+<map id="/Users/bignamic/Development/Galerking4GT/galerkin4gt/examples/dg_advection.cpp" name="/Users/bignamic/Development/Galerking4GT/galerkin4gt/examples/dg_advection.cpp">
+<area shape="rect" id="node2" href="$a00331.html" title="../numerics/assembly\l_dg.hpp" alt="" coords="1092,110,1239,151"/>
+<area shape="rect" id="node10" href="$a00340.html" title="tensor_product_element.hpp" alt="" coords="1459,539,1651,565"/>
+<area shape="rect" id="node29" href="$a00319.html" title="../functors/matvec.hpp" alt="" coords="1363,365,1516,392"/>
+<area shape="rect" id="node31" href="$a00310.html" title="../functors/assign.hpp" alt="" coords="1592,117,1741,144"/>
+<area shape="rect" id="node32" href="$a00350.html" title="../tools/io.hpp" alt="" coords="2643,117,2744,144"/>
+<area shape="rect" id="node3" href="$a00330.html" title="assembly_cg.hpp" alt="" coords="941,200,1067,227"/>
+<area shape="rect" id="node25" href="$a00333.html" title="Definition of the quantities needed for performing computations on the boundary. " alt="" coords="1102,200,1228,227"/>
+<area shape="rect" id="node4" href="$a00328.html" title="assembly.hpp" alt="" coords="911,283,1015,309"/>
+<area shape="rect" id="node5" href="$a00329.html" title="assembly_base.hpp" alt="" coords="1001,365,1140,392"/>
+<area shape="rect" id="node21" href="$a00308.html" title="../functors/assembly\l_functors.hpp" alt="" coords="917,441,1056,482"/>
+<area shape="rect" id="node22" href="$a00318.html" title="../functors/mass.hpp" alt="" coords="409,365,551,392"/>
+<area shape="rect" id="node23" href="$a00307.html" title="../functors/advection.hpp" alt="" coords="575,365,741,392"/>
+<area shape="rect" id="node24" href="$a00322.html" title="../functors/stiffness.hpp" alt="" coords="766,365,924,392"/>
+<area shape="rect" id="node6" href="$a00332.html" title="This file contains some of the core definitions used for the discretization on the reference space..." alt="" coords="1093,448,1232,475"/>
+<area shape="rect" id="node8" href="$a00323.html" title="../galerkin_defs.hpp" alt="" coords="1296,539,1435,565"/>
+<area shape="rect" id="node11" href="$a00334.html" title="cell.hpp" alt="" coords="1166,539,1233,565"/>
+<area shape="rect" id="node15" href="$a00336.html" title="element_traits.hpp" alt="" coords="442,539,573,565"/>
+<area shape="rect" id="node26" href="$a00311.html" title="../functors/bd_assembly\l_functors.hpp" alt="" coords="1273,275,1436,317"/>
+<area shape="rect" id="node27" href="$a00313.html" title="../functors/dg_fluxes.hpp" alt="" coords="1082,283,1248,309"/>
+<area shape="rect" id="node28" href="$a00320.html" title="project_on_boundary.hpp" alt="" coords="1165,365,1339,392"/>
+</map>

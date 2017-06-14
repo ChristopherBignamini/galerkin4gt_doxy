@@ -1,0 +1,4 @@
+<map id="gdl::grid_adjacency_rule_applier&lt; GridSpecificRuleApplier &gt;" name="gdl::grid_adjacency_rule_applier&lt; GridSpecificRuleApplier &gt;">
+<area shape="rect" id="node2" href="$a00164.html" title="{gdl::grid_adjacency\l_rule_applier\&lt; hexa\l_grid_adjacency_rule\l_applier\&lt; BasisCardinality1D \&gt; \&gt;\n||+ apply()\l+ apply()\l}" alt="" coords="15,221,231,357"/>
+<area shape="rect" id="node3" href="$a00166.html" title="{gdl::hexa_grid_adjacency\l_rule_applier\&lt; BasisCardinality1D \&gt;\n||+ apply_impl()\l}" alt="" coords="5,409,240,501"/>
+</map>

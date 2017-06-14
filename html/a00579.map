@@ -1,0 +1,4 @@
+<map id="gdl::linear_solver&lt; Strategy &gt;" name="gdl::linear_solver&lt; Strategy &gt;">
+<area shape="rect" id="node2" href="$a00194.html" title="{gdl::linear_solver\l\&lt; cg_solver\&lt; N_DOF0,\l N_DOF1, N_DOF2 \&gt; \&gt;\n||+ solve()\l}" alt="" coords="10,176,171,283"/>
+<area shape="rect" id="node3" href="$a00119.html" title="{gdl::cg_solver\&lt; N_DOF0,\l N_DOF1, N_DOF2 \&gt;\n||+ solve_impl()\l}" alt="" coords="5,334,176,426"/>
+</map>

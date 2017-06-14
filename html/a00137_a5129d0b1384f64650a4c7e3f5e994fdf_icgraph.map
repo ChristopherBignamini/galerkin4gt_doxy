@@ -1,0 +1,6 @@
+<map id="gdl::global_to_local_dof_translator::apply" name="gdl::global_to_local_dof_translator::apply">
+<area shape="rect" id="node2" href="$a00037.html#aef2754891dd9de7ee4b092fd36f0fbbd" title="global dof base data access method " alt="" coords="206,5,362,46"/>
+<area shape="rect" id="node4" href="$a00037.html#a77f11a950f377218394f0d45ab9e3c19" title="gdl::assemble_storage\l::set_value" alt="" coords="206,70,362,111"/>
+<area shape="rect" id="node3" href="$a00037.html#a63cb300d76fb7ffaa943f32740b94570" title="global dof base data access method " alt="" coords="411,5,567,46"/>
+<area shape="rect" id="node5" href="$a00037.html#aaac3593017ec48a86936373991a65128" title="gdl::assemble_storage\l::set_value" alt="" coords="411,70,567,111"/>
+</map>

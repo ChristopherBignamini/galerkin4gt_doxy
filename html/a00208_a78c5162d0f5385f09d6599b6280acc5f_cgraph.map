@@ -1,0 +1,10 @@
+<map id="segment::is_on_boundary_impl" name="segment::is_on_boundary_impl">
+<area shape="rect" id="node2" href="$a00228.html#ab819093d695e8690145ee3d7b7d274c9" title="subdomain_data::geom_data" alt="" coords="261,5,456,32"/>
+<area shape="rect" id="node3" href="$a00093.html#a5f3c90485adf7f72328a6b18b492d8ea" title="coord_t::mod" alt="" coords="309,56,409,83"/>
+<area shape="rect" id="node4" href="$a00323.html#a67863f4cb0c9cbd60046f29aedb9694a" title="mod2" alt="" coords="331,107,387,133"/>
+<area shape="rect" id="node6" href="$a00230.html#a50eaf5aa7f1aecb015f87525713439a7" title="subdomain_geom_data\l\&lt; segment \&gt;::segment_len" alt="" coords="269,158,449,199"/>
+<area shape="rect" id="node7" href="$a00230.html#a75714cf1fbbbb8af147ecd5004d95232" title="subdomain_geom_data\l\&lt; segment \&gt;::segment_vec" alt="" coords="267,223,450,265"/>
+<area shape="rect" id="node8" href="$a00230.html#a4c2d2481fca83c2ad1b0b86f4c9beb8d" title="subdomain_geom_data\l\&lt; segment \&gt;::start_point" alt="" coords="276,289,441,330"/>
+<area shape="rect" id="node9" href="$a00228.html#a40a0e2300acc1d10e1f487d1cdd3b62f" title="subdomain_data::tolerance" alt="" coords="267,355,450,381"/>
+<area shape="rect" id="node5" href="$a00093.html#a6c47f5babc2d845711365e5a62cef64a" title="coord_t::mod2" alt="" coords="504,107,611,133"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="/Users/bignamic/Development/Galerking4GT/galerkin4gt/examples/legendre.cpp" name="/Users/bignamic/Development/Galerking4GT/galerkin4gt/examples/legendre.cpp">
+<area shape="rect" id="node2" href="$a00333.html" title="Definition of the quantities needed for performing computations on the boundary. " alt="" coords="1762,109,1957,136"/>
+<area shape="rect" id="node10" href="$a00340.html" title="tensor_product_element.hpp" alt="" coords="2487,539,2679,565"/>
+<area shape="rect" id="node3" href="$a00328.html" title="assembly.hpp" alt="" coords="1888,192,1992,219"/>
+<area shape="rect" id="node48" href="$a00311.html" title="../functors/bd_assembly\l_functors.hpp" alt="" coords="1509,185,1672,226"/>
+<area shape="rect" id="node49" href="$a00313.html" title="../functors/dg_fluxes.hpp" alt="" coords="1697,192,1863,219"/>
+<area shape="rect" id="node4" href="$a00329.html" title="assembly_base.hpp" alt="" coords="2043,275,2183,301"/>
+<area shape="rect" id="node35" href="$a00308.html" title="../functors/assembly\l_functors.hpp" alt="" coords="2151,350,2291,391"/>
+<area shape="rect" id="node45" href="$a00318.html" title="../functors/mass.hpp" alt="" coords="1503,275,1645,301"/>
+<area shape="rect" id="node46" href="$a00307.html" title="../functors/advection.hpp" alt="" coords="1670,275,1836,301"/>
+<area shape="rect" id="node47" href="$a00322.html" title="../functors/stiffness.hpp" alt="" coords="1861,275,2019,301"/>
+<area shape="rect" id="node6" href="$a00332.html" title="This file contains some of the core definitions used for the discretization on the reference space..." alt="" coords="2043,448,2183,475"/>
+<area shape="rect" id="node37" href="$a00337.html" title="intrepid.hpp" alt="" coords="1717,357,1808,384"/>
+<area shape="rect" id="node8" href="$a00323.html" title="../galerkin_defs.hpp" alt="" coords="2324,539,2463,565"/>
+<area shape="rect" id="node11" href="$a00334.html" title="cell.hpp" alt="" coords="2071,539,2139,565"/>
+<area shape="rect" id="node15" href="$a00336.html" title="element_traits.hpp" alt="" coords="1907,539,2039,565"/>
+<area shape="rect" id="node36" href="$a00351.html" title="../utils/indexing.hpp" alt="" coords="2208,448,2344,475"/>
+<area shape="rect" id="node44" href="$a00335.html" title="cubature.hpp" alt="" coords="1919,448,2019,475"/>
+<area shape="rect" id="node50" href="$a00320.html" title="project_on_boundary.hpp" alt="" coords="1305,275,1479,301"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="gdl::cubature::cub" name="gdl::cubature::cub">
+<area shape="rect" id="node2" href="$a00072.html#a1d6fad26212f313c3697d851d16f25cf" title="gdl::intrepid::boundary\l_cub\&lt; geo_map_t, cub_t\l::cubDegree \&gt;::boundary_cub" alt="" coords="449,5,647,61"/>
+<area shape="rect" id="node3" href="$a00104.html#a978742aed75e5b4825618b746aeed7fb" title="gdl::cubature::numCubPoints" alt="" coords="182,71,375,97"/>
+<area shape="rect" id="node4" href="$a00072.html#ab335270efaff4cf9a29db49e6dcbec54" title="performs the lift of the reference subcell (e.g. unit quadrilateral) cubature points to a specific re..." alt="" coords="425,85,671,141"/>
+</map>
